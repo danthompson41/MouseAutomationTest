@@ -1,0 +1,9 @@
+[package]
+name = "mousetest"
+version = "0.1.0"
+authors = ["Dan Thompson <dthompson@fitbit.com>"]
+edition = "2018"
+
+[dependencies]
+enigo = "0.0.13"
+rand = "0.6.5"
